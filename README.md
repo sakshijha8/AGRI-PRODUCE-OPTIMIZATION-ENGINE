@@ -77,7 +77,6 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
  * Points in class A have the probability of a certain occurrence on the other hand points in class B have no probability of a certain occurrence.
 
  ## Website Link -
- http://127.0.0.1:7368/
- 
+
  
 
