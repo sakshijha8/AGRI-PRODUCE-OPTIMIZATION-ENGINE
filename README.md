@@ -3,13 +3,12 @@
 Building a Predictive Model so as to suggest the most suitable crops to grow based on the available climatic and soil conditions.
 
 <img align = "center" height = "300" width = "800" src = "https://user-images.githubusercontent.com/84726790/166432628-9aa89fd6-79aa-46a9-8484-f21887fb17d7.jpg">
+
 ## Technical aspect -
 *  Python 3.9
 *	Front-end: HTML, CSS
 *	Back-end: Flask
-*	IDE: Jupyter Notebook, PyCharm
-*	Database: MongoDB Atlas
-*	Deployment: Heroku
+*	IDE: Jupyter Notebook, Visual Studio
 
 ## How to run this app -
 Code is written in Python 3.9. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install.
