@@ -1,4 +1,6 @@
 # AGRI-PRODUCE-OPTIMIZATION-ENGINE
+## Context -
+Precision agriculture is in trend nowadays. It helps the farmers to get informed decision about the farming strategy. Here, I present you a dataset which would allow the users to build a predictive model to recommend the most suitable crops to grow in a particular farm based on various parameters.
 ## Problem Statement -
 Building a Predictive Model so as to suggest the most suitable crops to grow based on the available climatic and soil conditions.
 
@@ -33,6 +35,7 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
 ➔ The dataset consists of climatic conditions required to grow the crops.
 
    ◆ Temperature, Humidity, Rainfall.
+   
 
 ➔ The dataset also consists of soil conditions required to grow the crops
 
@@ -43,7 +46,6 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
    ◆ K: The Ratio of Potassium Content in Soil.
    
    ◆ pH: pH of the Soil
-   
    
    ## Libraries Used In The Project - 
    
@@ -56,7 +58,9 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
 ● Ipywidgets: Used for Interactive Analysis.
 
 ● Sklearn: Used for Machine Learning Algorithms
-
+   
+   ## Data Collection -
+   You can Download the data from here- https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
 
 
