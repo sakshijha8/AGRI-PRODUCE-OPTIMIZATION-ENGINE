@@ -66,7 +66,7 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
   Here,in this dataset no need to pre-process the data, Here Data is already clean and free from missing value.
   
   ## Distribution of Graphs -
-  <img align = "center" height = "300" width = "800" src = "https://user-images.githubusercontent.com/84726790/183288480-01fb439b-9ae8-4239-9462-aa51e29bf68b.png">
+  <img align = "center" height = "300" width = "700" src = "https://user-images.githubusercontent.com/84726790/183288480-01fb439b-9ae8-4239-9462-aa51e29bf68b.png">
 
   ## Model Creation and Evaluation -
   * Here, I import Logistic Regression from sklearn.linear_model, fit my model, and make a predictive model.
