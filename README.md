@@ -60,7 +60,7 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
 ● Sklearn: Used for Machine Learning Algorithms
    
    ## Data Collection -
-   You can Download the data from here- https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+   You can Download the data from here- [Click here](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
    
   ## Data Pre-processing -
   Here,in this dataset no need to pre-process the data, Here Data is already clean and free from missing value.
@@ -77,7 +77,5 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
  * Points in class A have the probability of a certain occurrence on the other hand points in class B have no probability of a certain occurrence.
 
  ## Website Link -
- 
-
  
 
