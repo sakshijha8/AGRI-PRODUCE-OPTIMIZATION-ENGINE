@@ -66,8 +66,7 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
   Here,in this dataset no need to pre-process the data, Here Data is already clean and free from missing value.
   
   ## DISTRIBUTION OF GRAPHS -
-
- From the distribution graph, we can see that some crops require a small amount of Nitrogen, some require average, and some require ## large amounts.Some crops require a small amount of Phosphorous, some require average, and some require large amounts. Some crops require a small amount of Potassium, some require average, and some require large amounts. Some crops require low Temperature, some ## require average, and some require high. Some crops require low Humidity in soil, some require average, and some require high. Some crops require low PH levels and some require high PH levels. Some crops require low Rain Fall, some require average, and some require high
+  From the distribution graph, we can see that some crops require a small amount of Nitrogen, some require average, and some require ## large amounts.Some crops require a small amount of Phosphorous, some require average, and some require large amounts. Some crops require a small amount of Potassium, some require average, and some require large amounts. Some crops require low Temperature, some ## require average, and some require high. Some crops require low Humidity in soil, some require average, and some require high. Some crops require low PH levels and some require high PH levels. Some crops require low Rain Fall, some require average, and some require high
 
  
 
