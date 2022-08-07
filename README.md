@@ -65,8 +65,15 @@ The Dataset Consists of 22 Unique Crops such as Maize, Wheat, Mango, Watermelon,
   ## Data Pre-processing -
   Here,in this dataset no need to pre-process the data, Here Data is already clean and free from missing value.
   
-  ## DISTRIBUTION OF GRAPHS -
-  From the distribution graph, we can see that some crops require a small amount of Nitrogen, some require average, and some require ## large amounts.Some crops require a small amount of Phosphorous, some require average, and some require large amounts. Some crops require a small amount of Potassium, some require average, and some require large amounts. Some crops require low Temperature, some ## require average, and some require high. Some crops require low Humidity in soil, some require average, and some require high. Some crops require low PH levels and some require high PH levels. Some crops require low Rain Fall, some require average, and some require high
+  ## Model Creation and Evaluation -
+  * Here, I import Logistic Regression from sklearn.linear_model, fit my model, and make a predictive model.
+  * Here, the code is not so complex but a question arises that why do we use Logistic Regression instead of Linear Regression?
+ * That is because when we have to deal with continuous variables or we can say with numerical values we use linear regression but when we have to deal with categorical variables we use logistic regression . Here we are dealing with categorical variables that's why we used logistic regression.
+ * Logistic Regression is trying to map real values or independent data points in the interval from 0 to 1.
+ * Points below the cut off line belong to Class B and points above the cut off line belongs to class A
+ * Points in class A have the probability of a certain occurrence on the other hand points in class B have no probability of a certain occurrence.
+
+
 
  
 
